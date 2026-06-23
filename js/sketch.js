@@ -50,7 +50,7 @@ let cam = null;
 let p5canvas = null;
 
 function setup() {
-  p5canvas = createCanvas(320, 240);
+  p5canvas = createCanvas(220, 160);
   p5canvas.parent('#canvas');
 
   tableImgElement = document.createElement("img");
