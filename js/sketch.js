@@ -125,7 +125,7 @@ function setup() {
   // 参考リンク
 let linkElement = document.createElement("a");
 linkElement.href = "https://park-sc.paa.jp/park2/dc/018/chapter2-05/";
-linkElement.textContent = "手の形1〜7";
+linkElement.textContent = "参考　手の形1〜7";
 linkElement.target = "_blank";
 linkElement.style.display = "block";
 linkElement.style.textAlign = "center";
